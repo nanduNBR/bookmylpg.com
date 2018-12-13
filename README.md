@@ -18,3 +18,8 @@ Pros:-
 >Needs only username and password. If they don’t have one, the valid consumers can get the username and passwords with simple registration process.
 >The Admin can only access the database, only he can add the consumers and staff. So the system is secured.
 >The authorized staff can see the bookings and the consumer details without any hassle. He can mark the status whether the refill delivered or not. If delivered then refill request will be automatically cleared.
+
+
+Setup:-
+Need Xampp for creating local server.
+For folders and files arrangement look the png image name "File Arrangement"
