@@ -1,0 +1,150 @@
+body{
+	
+	margin:0px;
+
+}
+
+
+
+.container{
+	width:1100px;
+	margin:auto;
+}
+
+
+.header
+{   height:200px;
+	width:100%;
+	
+
+	
+}
+.complete
+{
+	width:100%;
+	height:150%;
+	background-image: url(../Image/pattern1.jpg);
+  
+}
+
+
+	.nav
+    {margin-top:-16px;  
+	width:100%;
+	height:100px;
+	
+	}
+
+	.items
+	{width:1100px;height:65px;
+		background-color: rgb(25, 173, 181);
+		z-index: 100;
+    border-radius: 12px;
+
+	}
+
+
+.nav ul li {padding-top:25px;
+    display: inline;
+    float: left;
+    width:90px;
+    height:40px;
+    padding-right:10px;
+    margin-left:960px;
+    margin-right:40px;
+    background-color: rgb(25, 173, 181);border-radius: 12px;
+
+   
+}
+
+.nav ul li a
+    {text-decoration:none;
+     padding-left:20px; color:white;
+     font-weight: bold;
+
+     }
+     .nav ul li:hover
+     {background-color:rgb(42, 43, 43);
+     border-radius: 12px;
+}
+
+.content{
+	height: 200px;
+	width:800px;
+	margin: auto;
+	
+}
+
+.staff{
+	height: 200px;
+	width: 400px;
+	float: left;
+}
+
+.con{
+	height: 200px;
+	width: 400px;
+	float: right;
+	
+}
+
+.dropbtn {
+    background-color: #1E8BC3;
+    color: white;
+    padding: 16px;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+    display:inline-block;
+
+    margin-left: 120px;  
+    margin-top: 80px;    
+
+    position: relative;
+
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    margin-left: 120px;   
+
+    position: relative;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {background-color: #DADFE1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown:hover .dropbtn {
+    background-color: #6BB9F0;
+}
+
+.regform
+{   
+    width:100%;
+    height:600px;
+    }
+
+.title{
+    font-family: perpetua;
+    font-size: 50px;    
+}
+.title p
+  { margin-top:50px;
+    margin-left:100px;}
+
+.table{
+
+    font-family: rockwell;
+    font-size: 20px;
+}
